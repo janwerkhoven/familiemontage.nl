@@ -1,6 +1,4 @@
 # familiemontage.nl
-The website of a movie editor in Rotterdam, Netherlands.
-# praktijkcentrumlochristi.be
 
 #### What
 The [website](http://familiemontage.nl/) of a movie editor in Rotterdam, Netherlands.
